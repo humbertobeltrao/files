@@ -25,8 +25,8 @@
 #define SD_CS 5              // VSPI CS pin for SD card
 
 // Replace with your Wi-Fi credentials
-const char* ssid = "CINGUESTS";
-const char* password = "acessocin";
+const char* ssid = "";
+const char* password = "";
 
 //const int SPI_CS_PIN = 5;
 MCP_CAN CAN(CAN_CS);  // Create a CAN object
